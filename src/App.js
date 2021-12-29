@@ -6,8 +6,8 @@ function App() {
     return (
         <div className="App">
             <header>
-                <h1>Txt2Speak</h1>
-                <h5>Small text to speech tool created in React</h5>
+                <h1>Txt2Speech</h1>
+                <h5>Speech synthezizer React app</h5>
             </header>
 
             <section className="row">
@@ -37,8 +37,6 @@ function App() {
                         <span className="OptStyle">🐦</span> Bird
                     </button>
                 </aside>
-
-
             </section>
         </div>
     )
